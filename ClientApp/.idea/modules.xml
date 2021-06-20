@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/clientAppBACKUP.iml" filepath="$PROJECT_DIR$/clientAppBACKUP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientApp.iml" filepath="$PROJECT_DIR$/ClientApp.iml" />
     </modules>
   </component>
 </project>
